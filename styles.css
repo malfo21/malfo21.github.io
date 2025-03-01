@@ -5,6 +5,13 @@
   font-family: sans-serif;
 }
 
+.footer{ 
+       position: fixed;     
+       text-align: center;    
+       bottom: 0px; 
+       width: 100%;
+   } 
+
 html{
   scroll-behavior: smooth;;
 }
